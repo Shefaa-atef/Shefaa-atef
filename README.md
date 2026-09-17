@@ -139,11 +139,7 @@ A bilingual fasting planner designed around practical planning and accessibility
 
 ## 🍓 GitHub Stats 🍓
 
-<img height="165"
-src="https://github-readme-stats.vercel.app/api?username=Shefaa-atef&show_icons=true&hide_border=false&border_color=FFB6D9&title_color=FF4FA3&icon_color=FF69B4&text_color=8A3B64&bg_color=FFF0F8"/>
-
-<img height="165"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shefaa-atef&layout=compact&hide_border=false&border_color=FFB6D9&title_color=FF4FA3&text_color=8A3B64&bg_color=FFF0F8"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shefaa-atef&theme=default" />
 
 <br/><br/>
 
