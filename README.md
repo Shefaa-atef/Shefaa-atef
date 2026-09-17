@@ -1,5 +1,19 @@
-# Hi, I'm Shefa 👋
+💗 PINK HERO BANNER
 
-Frontend & Mobile Developer | UI/UX Designer
+SHEFA' ATEF
+Frontend & Mobile Developer × UI/UX Designer
 
-I build interactive web and mobile experiences using React, Flutter, Three.js, and Figma.
+✨ About Me
+
+🛠 Tech Stack
+React • JavaScript • Flutter • Three.js • Figma • Supabase
+
+🌸 Featured Work
+Spiderfolio • EcoPals • Tamrat • Palestine 3D
+
+🌱 Currently
+Three.js • TypeScript • Next.js
+
+📊 GitHub Stats
+
+💌 LinkedIn • Portfolio • Behance
