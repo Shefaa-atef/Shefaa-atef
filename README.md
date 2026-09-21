@@ -1,119 +1,221 @@
+````html
 <div align="center">
 
-<img width="100%"
-src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6C4C90,45:8970A6,100:F7B4F9&text=Shefa%20Atef%20♡&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20•%20Mobile%20Developer%20•%20UI%2FUX%20Designer&descAlignY=60&descSize=18" />
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                      HERO SECTION                     -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
-<img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=8970A6&center=true&vCenter=true&width=850&lines=✧+Designing+pretty+things+that+actually+work+✧;♡+React+•+Flutter+•+Three.js+•+Figma+♡;🌸+Creative+frontend+with+a+UI%2FUX+soul+🌸"
-/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=270&color=0:4D326B,35:6C4C90,70:B77BC6,100:F7B4F9&text=Shefa%20Atef%20♡&fontSize=64&fontColor=FFFFFF&animation=fadeIn&fontAlignY=37&desc=Frontend%20Developer%20✦%20Mobile%20Developer%20✦%20UI%2FUX%20Designer&descAlignY=59&descSize=18"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=21&duration=2600&pause=800&color=8970A6&center=true&vCenter=true&width=850&lines=✦+I+design+it.+I+code+it.+I+make+it+move.+✦;♡+React+•+Flutter+•+Three.js+•+Figma+♡;🌷+Creative+interfaces+with+actual+personality+🌷;✨+Building+things+I+wish+already+existed+✨"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/♡_FRONTEND-6C4C90?style=for-the-badge&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/♡_MOBILE-8970A6?style=for-the-badge&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/♡_UI%2FUX-F7B4F9?style=for-the-badge&logo=figma&logoColor=6C4C90" />
+<img src="https://img.shields.io/badge/FRONTEND-6C4C90?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/MOBILE-8970A6?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/UI%20%2F%20UX-EFA9F2?style=for-the-badge&logo=figma&logoColor=5A3E70"/>
+<img src="https://img.shields.io/badge/CREATIVE%20DEV-B77BC6?style=for-the-badge&logo=threedotjs&logoColor=white"/>
 
 <br/><br/>
 
 <a href="https://shefaa-atef.github.io/Portfolio/">
-<img src="https://img.shields.io/badge/✿_PORTFOLIO-6C4C90?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/✿%20PORTFOLIO-4D326B?style=for-the-badge"/>
 </a>
-
+&nbsp;
 <a href="https://www.linkedin.com/in/shefa-atef/">
-<img src="https://img.shields.io/badge/♡_LINKEDIN-8970A6?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/♡%20LINKEDIN-8970A6?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="https://www.behance.net/shefaalhindi">
-<img src="https://img.shields.io/badge/✦_BEHANCE-F7B4F9?style=for-the-badge&logo=behance&logoColor=6C4C90" />
+<img src="https://img.shields.io/badge/✦%20BEHANCE-F7B4F9?style=for-the-badge&logo=behance&logoColor=5A3E70"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Shefaa-atef&label=PROFILE+VIEWS&color=8970A6&style=for-the-badge"/>
+<sub>
+🌸　✦　♡　✦　🌷　✦　♡　✦　🎀　✦　♡　✦　🌷　✦　♡　✦　🌸
+</sub>
 
 <br/><br/>
 
-♡ ───────────── ✦ ───────────── ♡
+<b>「 code × design × interaction 」</b>
+
+<br/><br/>
 
 </div>
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                       ABOUT                           -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-## 🌷 ˚₊‧ About Me ‧₊˚ 🌷
+<img width="65%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:F7B4F9,50:8970A6,100:6C4C90"/>
+
+<br/><br/>
+
+## 🌷 ˚₊‧ ABOUT ME ‧₊˚ 🌷
+
+<sub>developer brain · designer eyes · questionable amount of tabs open</sub>
+
+<br/><br/>
 
 </div>
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+### ♡ hi, i'm Shefa
+
+I'm a **Frontend & Mobile Developer** with a **UI/UX design background**.
+
+I like projects where design isn't something added after development.
+
+I want the interface, motion, interactions and code to feel like **one product**.
+
+<br/>
+
+🌸 **Frontend** → React, JavaScript, TypeScript  
+💜 **Mobile** → Flutter  
+🎀 **Design** → Figma, UI/UX, prototyping  
+✨ **Creative Dev** → Three.js, motion, interactive experiences  
+🌷 **Data / Backend** → Firebase, Supabase, REST APIs  
+🌙 **Special interest** → Arabic RTL / English LTR experiences
+
+</td>
+
+<td width="45%" valign="top">
+
+### ✦ shefa.exe
 
 ```yaml
-name: Shefa Atef
-role: Frontend & Mobile Developer + UI/UX Designer
+role:
+  - Frontend Developer
+  - Mobile Developer
+  - UI/UX Designer
+
 location: Jordan
 
-interests:
-  - Creative Frontend
-  - Mobile Development
-  - 3D Web Experiences
-  - UI/UX Design
-  - RTL / LTR Interfaces
+likes:
+  - creative interfaces
+  - 3D websites
+  - motion
+  - weird ideas
+  - pretty code
 
-currently_learning:
-  - Three.js
+currently:
+  - Three.js Journey
   - TypeScript
-  - Next.js
-```
+  - creative frontend
 
-<div align="center">
+status:
+  building cool stuff...
+````
 
-♡ I build products where **code and design actually belong together**.
-
-🌸 Building with **React, JavaScript, Flutter & Three.js**
-
-💜 Designing interfaces using **Figma**
-
-🎀 Working with **Supabase, Firebase & REST APIs**
-
-🌷 Interested in **creative frontend, 3D web, motion and RTL/LTR experiences**
-
-</div>
+</td>
+</tr>
+</table>
 
 <br/>
 
 <div align="center">
 
-♡ ───────────── ✦ ───────────── ♡
+> ♡ I don't want websites to just work.
+> I want them to feel like somebody actually designed them.
 
-## 🎀 Tech Stack 🎀
+<br/>
 
-### 🌸 Frontend
+🌷　♡　✦　**pixels → components → interaction → experience**　✦　♡　🌷
 
-<img src="https://img.shields.io/badge/React-6C4C90?style=for-the-badge&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-8970A6?style=for-the-badge&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-F7B4F9?style=for-the-badge&logo=typescript&logoColor=6C4C90"/>
-<img src="https://img.shields.io/badge/HTML5-6C4C90?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-8970A6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Three.js-F7B4F9?style=for-the-badge&logo=threedotjs&logoColor=6C4C90"/>
+</div>
 
-<br/><br/>
+<!-- ═══════════════════════════════════════════════════════ -->
 
-### 🌷 Mobile & Design
+<!--                      TECH STACK                       -->
 
-<img src="https://img.shields.io/badge/Flutter-F7B4F9?style=for-the-badge&logo=flutter&logoColor=6C4C90"/>
-<img src="https://img.shields.io/badge/Figma-8970A6?style=for-the-badge&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Rive-6C4C90?style=for-the-badge&logoColor=white"/>
+<!-- ═══════════════════════════════════════════════════════ -->
 
-<br/><br/>
+<div align="center">
 
-### ✨ Backend & Tools
+<br/>
 
-<img src="https://img.shields.io/badge/Supabase-6C4C90?style=for-the-badge&logo=supabase&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-F7B4F9?style=for-the-badge&logo=firebase&logoColor=6C4C90"/>
-<img src="https://img.shields.io/badge/REST_API-8970A6?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-6C4C90?style=for-the-badge&logo=git&logoColor=white"/>
+<img width="65%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:6C4C90,50:F7B4F9,100:8970A6"/>
 
 <br/><br/>
 
-♡ ───────────── ✦ ───────────── ♡
+## 🎀 ˚₊‧ MY TOOLBOX ‧₊˚ 🎀
 
-## 🌸 Featured Projects 🌸
+<sub>the stuff currently living in my brain</sub>
+
+<br/><br/>
+
+### ✦ frontend
+
+<img src="https://skillicons.dev/icons?i=react,js,ts,html,css,vite&theme=light"/>
+
+<br/><br/>
+
+### ✦ creative web
+
+<img src="https://skillicons.dev/icons?i=threejs,figma&theme=light"/>
+
+<br/><br/>
+
+### ✦ mobile
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin&theme=light"/>
+
+<br/><br/>
+
+### ✦ backend & data
+
+<img src="https://skillicons.dev/icons?i=firebase,supabase,nodejs,express&theme=light"/>
+
+<br/><br/>
+
+### ✦ tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=light"/>
+
+<br/><br/>
+
+<table>
+<tr>
+<td align="center">🌸 UI Engineering</td>
+<td align="center">🎀 Responsive Design</td>
+<td align="center">💜 REST APIs</td>
+</tr>
+<tr>
+<td align="center">🌷 RTL / LTR</td>
+<td align="center">✨ Prototyping</td>
+<td align="center">🪻 Interaction Design</td>
+</tr>
+</table>
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<!--                    PROJECT UNIVERSE                   -->
+
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<br/>
+
+<img width="65%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:F7B4F9,50:8970A6,100:6C4C90"/>
+
+<br/><br/>
+
+## ✦ PROJECT UNIVERSE ✦
+
+<sub>♡ selected things I've designed, coded or mildly obsessed over ♡</sub>
+
+<br/><br/>
 
 </div>
 
@@ -123,29 +225,59 @@ currently_learning:
 
 <td width="50%" valign="top">
 
-### 💜 Spiderfolio
+<div align="center">
 
-A creative interactive portfolio combining frontend development, motion and custom visual storytelling.
+### 🕸️ SPIDERFOLIO
 
-**♡ React • JavaScript • Figma**
+**interactive portfolio / frontend experiment**
 
-[🌷 View Live](https://shefaa-atef.github.io/Portfolio/)
+</div>
 
-[✦ Source Code](https://github.com/Shefaa-atef/Portfolio)
+A playful portfolio built around interaction, motion, visual storytelling and comic-inspired interface ideas.
+
+**✦ React
+✦ JavaScript
+✦ Figma
+✦ Motion / Interaction**
+
+<br/>
+
+<div align="center">
+
+[🌷 **LIVE EXPERIENCE**](https://shefaa-atef.github.io/Portfolio/)
+  •  
+[♡ **SOURCE**](https://github.com/Shefaa-atef/Portfolio)
+
+</div>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🌷 Palestine 3D
+<div align="center">
 
-An interactive Three.js experience built around symbolic Palestinian objects inside a 3D environment.
+### 🫒 PALESTINE 3D
 
-**♡ React • TypeScript • Three.js**
+**3D web experience**
 
-[✨ View Live](https://shefaa-atef.github.io/palestine/)
+</div>
 
-[✦ Source Code](https://github.com/Shefaa-atef/palestine)
+An interactive Three.js project using meaningful Palestinian objects inside a visual 3D environment.
+
+**✦ React
+✦ TypeScript
+✦ Three.js
+✦ 3D Interaction**
+
+<br/>
+
+<div align="center">
+
+[✨ **LIVE EXPERIENCE**](https://shefaa-atef.github.io/palestine/)
+  •  
+[♡ **SOURCE**](https://github.com/Shefaa-atef/palestine)
+
+</div>
 
 </td>
 
@@ -155,25 +287,55 @@ An interactive Three.js experience built around symbolic Palestinian objects ins
 
 <td width="50%" valign="top">
 
-### 🌱 EcoPals
+<div align="center">
 
-A sustainability experience with bilingual content, environmental showcases, character interactions and a mini-game.
+### 🌱 ECOPALS
 
-**♡ React • Three.js • Phaser**
+**sustainability × game × interaction**
 
-[🎀 Repository](https://github.com/Shefaa-atef/ecopals-web)
+</div>
+
+A bilingual sustainability experience combining environmental content, characters, interactive scenes and game elements.
+
+**✦ React
+✦ Three.js
+✦ Phaser
+✦ Arabic / English**
+
+<br/>
+
+<div align="center">
+
+[🎀 **VIEW REPOSITORY**](https://github.com/Shefaa-atef/ecopals-web)
+
+</div>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🌙 Tamrat
+<div align="center">
 
-A bilingual website introducing Tamrat's fasting planner through app previews, feature sections and download information.
+### 🌙 TAMRAT
 
-**♡ React • TypeScript • Tailwind CSS**
+**bilingual product experience**
 
-[💜 Repository](https://github.com/Shefaa-atef/tamrat_web)
+</div>
+
+A bilingual experience presenting a fasting planner through feature storytelling, product screens and app information.
+
+**✦ React
+✦ TypeScript
+✦ Tailwind CSS
+✦ RTL / LTR**
+
+<br/>
+
+<div align="center">
+
+[💜 **VIEW REPOSITORY**](https://github.com/Shefaa-atef/tamrat_web)
+
+</div>
 
 </td>
 
@@ -181,51 +343,289 @@ A bilingual website introducing Tamrat's fasting planner through app previews, f
 
 </table>
 
+<br/>
+
+<div align="center">
+
+🌸 **I like projects that are a little unnecessary, highly interactive and visually dramatic.**
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<!--                    CREATIVE DNA                       -->
+
+<!-- ═══════════════════════════════════════════════════════ -->
+
 <div align="center">
 
 <br/>
 
-♡ ───────────── ✦ ───────────── ♡
-
-## 🌷 GitHub Garden 🌷
-
-<img
-src="https://github-readme-stats.vercel.app/api?username=Shefaa-atef&show_icons=true&hide_border=true&title_color=6C4C90&icon_color=F7B4F9&text_color=8970A6&bg_color=FFFFFF"
-/>
+<img width="65%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:6C4C90,50:B77BC6,100:F7B4F9"/>
 
 <br/><br/>
 
-<img
-src="https://streak-stats.demolab.com?user=Shefaa-atef&background=FFFFFF&border=F7B4F9&stroke=8970A6&ring=6C4C90&fire=F7B4F9&currStreakNum=6C4C90&sideNums=8970A6&currStreakLabel=6C4C90&sideLabels=8970A6&dates=8970A6"
-/>
-
-<br/><br/>
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shefaa-atef&layout=compact&hide_border=true&title_color=6C4C90&text_color=8970A6&bg_color=FFFFFF"
-/>
-
-<br/><br/>
-
-♡ ───────────── ✦ ───────────── ♡
-
-## 🎀 Currently Creating 🎀
-
-<img src="https://img.shields.io/badge/Three.js_Journey-6C4C90?style=for-the-badge&logo=threedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-8970A6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Next.js-F7B4F9?style=for-the-badge&logo=nextdotjs&logoColor=6C4C90"/>
-
-<br/><br/>
-
-### 🌸 ˚₊‧ code it · design it · make it yours ‧₊˚ 🌸
+## 💜 CREATIVE DNA
 
 <br/>
 
-♡ ✦ 🌷 ✦ ♡ ✦ 🎀 ✦ ♡ ✦ 🌷 ✦ ♡
+<table>
+<tr>
+<td align="center">
+
+### 🎨
+
+**Design**
+
+Figma
+UI Systems
+Prototypes
+Visual Identity
+
+</td>
+
+<td align="center">
+
+### 💻
+
+**Code**
+
+React
+Flutter
+TypeScript
+JavaScript
+
+</td>
+
+<td align="center">
+
+### ✦
+
+**Interaction**
+
+Three.js
+Motion
+Micro-interactions
+Creative UI
+
+</td>
+
+<td align="center">
+
+### 🌍
+
+**Experience**
+
+Responsive
+RTL / LTR
+Mobile
+Accessibility
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-<img width="100%"
-src="https://capsule-render.vercel.app/api?type=waving&height=145&section=footer&color=0:F7B4F9,50:8970A6,100:6C4C90"/>
+`idea`
+→
+`figma`
+→
+`code`
+→
+`why is this animation 2px off`
+→
+`fix`
+→
+`ship`
 
 </div>
+
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<!--                      GITHUB GARDEN                    -->
+
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<br/>
+
+<img width="65%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:F7B4F9,50:8970A6,100:6C4C90"/>
+
+<br/><br/>
+
+## 🌷 GITHUB GARDEN
+
+<sub>commits are just digital gardening apparently</sub>
+
+<br/><br/>
+
+<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shefaa-atef&bg_color=ffffff&color=6C4C90&line=8970A6&point=F7B4F9&area=true&area_color=F7B4F9&hide_border=true&custom_title=Shefa's%20Contribution%20Garden"/>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Shefaa-atef&label=♡%20VISITORS&color=8970A6&style=for-the-badge"/>
+
+<br/><br/>
+
+🌱　🌸　🌱　🌷　🌱　🎀　🌱　🌸　🌱　🌷　🌱
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<!--                       CURRENTLY                       -->
+
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<br/>
+
+<img width="65%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:8970A6,50:F7B4F9,100:6C4C90"/>
+
+<br/><br/>
+
+## 🎀 CURRENTLY LEVELING UP
+
+<br/>
+
+<img src="https://img.shields.io/badge/THREE.JS%20JOURNEY-4D326B?style=for-the-badge&logo=threedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/TYPESCRIPT-8970A6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/CREATIVE%20FRONTEND-F7B4F9?style=for-the-badge&logo=sparkles&logoColor=6C4C90"/>
+
+<br/><br/>
+
+<table>
+<tr>
+<td align="center">
+
+`01`
+
+**make stronger frontend projects**
+
+</td>
+
+<td align="center">
+
+`02`
+
+**get dangerous with Three.js**
+
+</td>
+
+<td align="center">
+
+`03`
+
+**turn weird ideas into actual products**
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<!--                      LITTLE CHAOS                     -->
+
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img width="65%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:F7B4F9,50:8970A6,100:6C4C90"/>
+
+<br/><br/>
+
+## 🌸 THE IMPORTANT STUFF
+
+</div>
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### ♡
+
+**Design first?**
+
+Usually.
+
+</td>
+
+<td width="33%" align="center">
+
+### ✦
+
+**Dark mode?**
+
+Obviously.
+
+</td>
+
+<td width="33%" align="center">
+
+### 🎀
+
+**Would I animate it?**
+
+Unfortunately yes.
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<br/>
+
+`console.log("make it prettier");`
+
+<br/><br/>
+
+♡ ────────── ✦ ────────── ♡
+
+<br/><br/>
+
+### 🌷 FIND ME AROUND THE INTERNET
+
+<br/>
+
+<a href="https://shefaa-atef.github.io/Portfolio/">
+<img src="https://img.shields.io/badge/PORTFOLIO-4D326B?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/shefa-atef/">
+<img src="https://img.shields.io/badge/LINKEDIN-8970A6?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.behance.net/shefaalhindi">
+<img src="https://img.shields.io/badge/BEHANCE-F7B4F9?style=for-the-badge&logo=behance&logoColor=6C4C90"/>
+</a>
+
+<a href="https://github.com/Shefaa-atef">
+<img src="https://img.shields.io/badge/GITHUB-6C4C90?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/><br/>
+
+🌸　˚₊‧　♡　˚₊‧　🌷　˚₊‧　✦　˚₊‧　🎀　˚₊‧　✦　˚₊‧　🌷　˚₊‧　♡　˚₊‧　🌸
+
+<br/>
+
+### `code it • design it • make it yours`
+
+<sub>♡ thanks for wandering into my little corner of GitHub ♡</sub>
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:F7B4F9,35:B77BC6,70:8970A6,100:4D326B"/>
+
+</div>
+```
+
+This one is **way more you**. The `shefa.exe`, Project Universe, Creative DNA, “would I animate it? unfortunately yes”, garden, and visual hierarchy make it feel like an actual designed profile instead of badge soup.
