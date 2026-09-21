@@ -134,101 +134,56 @@ I want them to feel like somebody actually designed them.
 🌷　♡　✦　♡　🎀　♡　✦　♡　🌷
 <!-- ═══════════════════════════════════════════════════════ -->
 
-<!--                       TOOLBOX                         -->
+<!--                    CREATIVE STACK                     -->
 
 <!-- ═══════════════════════════════════════════════════════ -->
 
 <div align="center">
 
+<br/>
+
 <img width="65%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:6C4C90,50:F7B4F9,100:8970A6"/>
 
 <br/><br/>
 
-<h2>🎀 ˚₊‧ MY TOOLBOX ‧₊˚ 🎀</h2>
+<h2>🎀 ˚₊‧ CREATIVE STACK ‧₊˚ 🎀</h2>
 
-<sub>the things currently living in my brain</sub>
-
-<br/><br/>
-
-<h3>🌸 Frontend</h3>
-
-<img src="https://skillicons.dev/icons?i=react,js,ts,html,css,vite&theme=light"/>
+<sub>design it → build it → make it move</sub>
 
 <br/><br/>
 
-<h3>💜 Creative Web</h3>
+<img src="https://img.shields.io/badge/FIGMA-F7B4F9?style=for-the-badge&logo=figma&logoColor=6C4C90"/>
+<img src="https://img.shields.io/badge/REACT-6C4C90?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/JAVASCRIPT-8970A6?style=for-the-badge&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/TYPESCRIPT-F7B4F9?style=for-the-badge&logo=typescript&logoColor=6C4C90"/>
+<img src="https://img.shields.io/badge/THREE.JS-4D326B?style=for-the-badge&logo=threedotjs&logoColor=white"/>
 
-<img src="https://skillicons.dev/icons?i=threejs,figma&theme=light"/>
-
-<br/><br/>
-
-<h3>🌷 Mobile</h3>
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin&theme=light"/>
-
-<br/><br/>
-
-<h3>✨ Backend & Data</h3>
-
-<img src="https://skillicons.dev/icons?i=firebase,supabase,nodejs,express&theme=light"/>
-
-<br/><br/>
-
-<h3>🎀 Tools</h3>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=light"/>
-
-<br/><br/>
-
-<table>
-<tr>
-
-<td align="center" width="33%">
-🌸
 <br/>
-<strong>UI Engineering</strong>
-</td>
 
-<td align="center" width="33%">
-🎀
+<img src="https://img.shields.io/badge/HTML5-8970A6?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-F7B4F9?style=for-the-badge&logo=css3&logoColor=6C4C90"/>
+<img src="https://img.shields.io/badge/VITE-6C4C90?style=for-the-badge&logo=vite&logoColor=white"/>
+<img src="https://img.shields.io/badge/FLUTTER-8970A6?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/DART-F7B4F9?style=for-the-badge&logo=dart&logoColor=6C4C90"/>
+
 <br/>
-<strong>Responsive Design</strong>
-</td>
 
-<td align="center" width="33%">
-💜
-<br/>
-<strong>REST APIs</strong>
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-🌷
-<br/>
-<strong>RTL / LTR</strong>
-</td>
-
-<td align="center">
-✨
-<br/>
-<strong>Prototyping</strong>
-</td>
-
-<td align="center">
-🪻
-<br/>
-<strong>Interaction Design</strong>
-</td>
-
-</tr>
-</table>
+<img src="https://img.shields.io/badge/FIREBASE-4D326B?style=for-the-badge&logo=firebase&logoColor=white"/>
+<img src="https://img.shields.io/badge/SUPABASE-8970A6?style=for-the-badge&logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-F7B4F9?style=for-the-badge&logo=github&logoColor=6C4C90"/>
+<img src="https://img.shields.io/badge/VS%20CODE-6C4C90?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 
 <br/><br/>
 
-🌷　✦　♡　✦　🎀　✦　♡　✦　🌷
+<code>UI/UX</code>
+　♡　 <code>Frontend</code>
+　♡　 <code>Mobile</code>
+　♡　 <code>3D Web</code>
+　♡　 <code>RTL / LTR</code>
+
+<br/><br/>
+
+🌸　✦　♡　✦　🌷　✦　🎀　✦　🌷　✦　♡　✦　🌸
 
 </div>
 
@@ -248,7 +203,7 @@ I want them to feel like somebody actually designed them.
 
 <h2>✦ PROJECT UNIVERSE ✦</h2>
 
-<sub>♡ selected things I've designed, coded and mildly obsessed over ♡</sub>
+<sub>things I designed, coded and got slightly too attached to</sub>
 
 <br/><br/>
 
@@ -262,24 +217,23 @@ I want them to feel like somebody actually designed them.
 
 <div align="center">
 
-<h3>🕸️ SPIDERFOLIO</h3>
+<h2>🕸️</h2>
 
-<sub>interactive portfolio · frontend experiment</sub>
+<h3>SPIDERFOLIO</h3>
+
+<sub>portfolio × storytelling × interaction</sub>
+
+<br/><br/>
 
 </div>
 
-<br/>
-
 <p>
-A playful portfolio built around interaction, motion,
-visual storytelling and custom interface ideas.
+A creative interactive portfolio where frontend development,
+motion and custom visual design all collide.
 </p>
 
-<p>
-<strong>React</strong> ·
-<strong>JavaScript</strong> ·
-<strong>Figma</strong> ·
-<strong>Motion</strong>
+<p align="center">
+<strong>React · JavaScript · Figma · Motion</strong>
 </p>
 
 <br/>
@@ -287,7 +241,7 @@ visual storytelling and custom interface ideas.
 <div align="center">
 
 <a href="https://shefaa-atef.github.io/Portfolio/">
-<img src="https://img.shields.io/badge/LIVE%20EXPERIENCE-6C4C90?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/LIVE-6C4C90?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Shefaa-atef/Portfolio">
@@ -302,24 +256,23 @@ visual storytelling and custom interface ideas.
 
 <div align="center">
 
-<h3>🫒 PALESTINE 3D</h3>
+<h2>🫒</h2>
 
-<sub>3D interactive experience</sub>
+<h3>PALESTINE 3D</h3>
+
+<sub>culture × symbolism × 3D web</sub>
+
+<br/><br/>
 
 </div>
 
-<br/>
-
 <p>
-An interactive Three.js project built around symbolic
-Palestinian objects inside a visual 3D environment.
+An interactive Three.js experience built around symbolic
+Palestinian objects inside a 3D environment.
 </p>
 
-<p>
-<strong>React</strong> ·
-<strong>TypeScript</strong> ·
-<strong>Three.js</strong> ·
-<strong>3D Interaction</strong>
+<p align="center">
+<strong>React · TypeScript · Three.js</strong>
 </p>
 
 <br/>
@@ -327,7 +280,7 @@ Palestinian objects inside a visual 3D environment.
 <div align="center">
 
 <a href="https://shefaa-atef.github.io/palestine/">
-<img src="https://img.shields.io/badge/LIVE%20EXPERIENCE-8970A6?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/LIVE-8970A6?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Shefaa-atef/palestine">
@@ -346,33 +299,42 @@ Palestinian objects inside a visual 3D environment.
 
 <div align="center">
 
-<h3>🌱 ECOPALS</h3>
+<h2>🌱</h2>
 
-<sub>sustainability · interaction · game</sub>
+<h3>ECOPALS</h3>
+
+<sub>sustainability × community × gamification</sub>
+
+<br/><br/>
 
 </div>
 
-<br/>
-
 <p>
-A bilingual sustainability experience combining
-environmental content, interactive characters,
-3D elements and game mechanics.
+A bilingual sustainability platform that turns environmental
+actions into challenges, rewards, community interaction and
+measurable impact.
 </p>
 
-<p>
-<strong>React</strong> ·
-<strong>Three.js</strong> ·
-<strong>Phaser</strong> ·
-<strong>Arabic / English</strong>
+<p align="center">
+<strong>Flutter · Firebase · React · Three.js</strong>
 </p>
 
 <br/>
 
 <div align="center">
 
+<a href="https://ecopals.org">
+<img src="https://img.shields.io/badge/LIVE%20WEB-6C4C90?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="https://play.google.com/store/apps/details?id=com.ecopals.greenverse">
+<img src="https://img.shields.io/badge/GOOGLE%20PLAY-8970A6?style=for-the-badge&logo=googleplay&logoColor=white"/>
+</a>
+
+<br/>
+
 <a href="https://github.com/Shefaa-atef/ecopals-web">
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-6C4C90?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/SOURCE-F7B4F9?style=for-the-badge&logo=github&logoColor=6C4C90"/>
 </a>
 
 </div>
@@ -383,32 +345,41 @@ environmental content, interactive characters,
 
 <div align="center">
 
-<h3>🌙 TAMRAT</h3>
+<h2>🌙</h2>
 
-<sub>bilingual product experience</sub>
+<h3>TAMRAT</h3>
+
+<sub>faith × planning × smart experience</sub>
+
+<br/><br/>
 
 </div>
 
-<br/>
-
 <p>
-A bilingual web experience introducing a fasting planner
-through product screens, features and app information.
+A smart fasting companion designed to help users plan,
+organize and track obligatory and voluntary fasting.
 </p>
 
-<p>
-<strong>React</strong> ·
-<strong>TypeScript</strong> ·
-<strong>Tailwind CSS</strong> ·
-<strong>RTL / LTR</strong>
+<p align="center">
+<strong>Flutter · Supabase · React · TypeScript</strong>
 </p>
 
 <br/>
 
 <div align="center">
 
+<a href="https://shefaa-atef.github.io/tamrat_web/">
+<img src="https://img.shields.io/badge/LIVE%20WEB-6C4C90?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="https://play.google.com/store/apps/details?id=com.shefaa.tamrat">
+<img src="https://img.shields.io/badge/GOOGLE%20PLAY-8970A6?style=for-the-badge&logo=googleplay&logoColor=white"/>
+</a>
+
+<br/>
+
 <a href="https://github.com/Shefaa-atef/tamrat_web">
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-8970A6?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/SOURCE-F7B4F9?style=for-the-badge&logo=github&logoColor=6C4C90"/>
 </a>
 
 </div>
@@ -419,35 +390,38 @@ through product screens, features and app information.
 
 </table>
 
-<br/>
-
 <div align="center">
-
-🌸 <strong>I like projects that are slightly unnecessary, highly interactive and visually dramatic.</strong>
 
 <br/><br/>
 
-♡　✦　🌷　✦　♡　✦　🎀　✦　♡　✦　🌷　✦　♡
+🌸　♡　✦　♡　🌷　♡　✦　♡　🎀　♡　✦　♡　🌷　♡　✦　♡　🌸
+
+<br/><br/>
+
+<strong>
+I like projects that are slightly unnecessary,
+highly interactive and visually dramatic.
+</strong>
+
+<br/><br/>
 
 </div>
 
 <!-- ═══════════════════════════════════════════════════════ -->
 
-<!--                     CREATIVE DNA                      -->
+<!--                    HOW I BUILD                        -->
 
 <!-- ═══════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<br/>
-
 <img width="65%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:6C4C90,50:B77BC6,100:F7B4F9"/>
 
 <br/><br/>
 
-<h2>💜 CREATIVE DNA 💜</h2>
+<h2>💜 HOW MY BRAIN WORKS 💜</h2>
 
-<sub>four things that basically explain my work</sub>
+<sub>approximately</sub>
 
 <br/><br/>
 
@@ -455,63 +429,93 @@ through product screens, features and app information.
 
 <tr>
 
-<td width="25%" align="center" valign="top">
+<td width="20%" align="center">
 
-<h2>🎨</h2>
+<h2>01</h2>
+
+🌷
+
+<br/><br/>
+
+<strong>IDEA</strong>
+
+<br/><br/>
+
+<sub>
+probably weird
+</sub>
+
+</td>
+
+<td width="20%" align="center">
+
+<h2>02</h2>
+
+🎀
+
+<br/><br/>
 
 <strong>DESIGN</strong>
 
 <br/><br/>
 
-Figma <br/>
-UI Systems <br/>
-Prototypes <br/>
-Visual Design
+<sub>
+Figma gets involved
+</sub>
 
 </td>
 
-<td width="25%" align="center" valign="top">
+<td width="20%" align="center">
 
-<h2>💻</h2>
+<h2>03</h2>
 
-<strong>CODE</strong>
+💻
 
 <br/><br/>
 
-React <br/>
-Flutter <br/>
-TypeScript <br/>
-JavaScript
+<strong>BUILD</strong>
+
+<br/><br/>
+
+<sub>
+components everywhere
+</sub>
 
 </td>
 
-<td width="25%" align="center" valign="top">
+<td width="20%" align="center">
 
-<h2>✦</h2>
+<h2>04</h2>
 
-<strong>INTERACTION</strong>
+✨
 
 <br/><br/>
 
-Three.js <br/>
-Motion <br/>
-Micro-interactions <br/>
-Creative UI
+<strong>MOVE</strong>
+
+<br/><br/>
+
+<sub>
+animate everything
+</sub>
 
 </td>
 
-<td width="25%" align="center" valign="top">
+<td width="20%" align="center">
 
-<h2>🌍</h2>
+<h2>05</h2>
 
-<strong>EXPERIENCE</strong>
+🚀
 
 <br/><br/>
 
-Responsive <br/>
-RTL / LTR <br/>
-Mobile <br/>
-Accessibility
+<strong>SHIP</strong>
+
+<br/><br/>
+
+<sub>
+finally
+</sub>
 
 </td>
 
@@ -524,69 +528,97 @@ Accessibility
 <code>idea</code>
 　→　 <code>figma</code>
 　→　 <code>code</code>
-　→　 <code>why is this 2px off</code>
+　→　 <code>why is that 2px off?</code>
 　→　 <code>fix</code>
 　→　 <code>ship</code>
 
 <br/><br/>
 
-🌸　✦　🌷　✦　🎀　✦　🌷　✦　🌸
-
 </div>
 
 <!-- ═══════════════════════════════════════════════════════ -->
 
-<!--                     GITHUB GARDEN                     -->
+<!--                    GITHUB GARDEN                      -->
 
 <!-- ═══════════════════════════════════════════════════════ -->
 
 <div align="center">
-
-<br/>
 
 <img width="65%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:F7B4F9,50:8970A6,100:6C4C90"/>
 
 <br/><br/>
 
-<h2>🌷 GITHUB GARDEN 🌷</h2>
+<h2>🌷 ˚₊‧ GITHUB GARDEN ‧₊˚ 🌷</h2>
 
-<sub>˚₊‧ growing one commit at a time ‧₊˚</sub>
-
-<br/><br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shefaa-atef&bg_color=ffffff&color=6C4C90&line=8970A6&point=F7B4F9&area=true&area_color=F7B4F9&hide_border=true&custom_title=Shefa%27s%20Contribution%20Garden"/>
+<sub>plant code · break code · fix code · repeat</sub>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Shefaa-atef&label=PROFILE%20VISITORS&color=8970A6&style=for-the-badge"/>
+🌱　🌷　🌱　🌸　🌱　🪻　🌱　🎀　🌱　🪻　🌱　🌸　🌱　🌷　🌱
 
 <br/><br/>
 
-🌱　🌸　🌱　🌷　🌱　🎀　🌱　🌸　🌱　🌷　🌱
+<table>
+
+<tr>
+
+<td align="center">
+
+<h3>♡ repositories</h3>
+
+code experiments,
+products & chaos
+
+<br/><br/>
+
+<a href="https://github.com/Shefaa-atef?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20REPOS-6C4C90?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td align="center">
+
+<h3>✦ profile</h3>
+
+everything I'm
+currently building
+
+<br/><br/>
+
+<a href="https://github.com/Shefaa-atef">
+<img src="https://img.shields.io/badge/VISIT%20GITHUB-8970A6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+
+</table>
+
+<br/><br/>
+
+🌱　🌸　🌱　🌷　🌱　🎀　🌱　🌷　🌱　🌸　🌱
+
+<br/><br/>
 
 </div>
 
 <!-- ═══════════════════════════════════════════════════════ -->
 
-<!--                       LEVEL UP                        -->
+<!--                    CURRENT QUEST                      -->
 
 <!-- ═══════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<br/>
-
 <img width="65%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:8970A6,50:F7B4F9,100:6C4C90"/>
 
 <br/><br/>
 
-<h2>🎀 CURRENTLY LEVELING UP 🎀</h2>
+<h2>🎮 CURRENT QUEST</h2>
 
-<br/>
-
-<img src="https://img.shields.io/badge/THREE.JS%20JOURNEY-4D326B?style=for-the-badge&logo=threedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/TYPESCRIPT-8970A6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/CREATIVE%20FRONTEND-F7B4F9?style=for-the-badge&logo=react&logoColor=6C4C90"/>
+<sub>character development, but for developers</sub>
 
 <br/><br/>
 
@@ -596,37 +628,46 @@ Accessibility
 
 <td width="33%" align="center">
 
-<h3>01</h3>
+<h2>🌐</h2>
 
-<strong>build stronger frontend projects</strong>
+<strong>THREE.JS</strong>
 
 <br/><br/>
 
-🌸
+<sub>
+making the browser
+do unnecessary 3D things
+</sub>
 
 </td>
 
 <td width="33%" align="center">
 
-<h3>02</h3>
+<h2>💙</h2>
 
-<strong>get dangerous with Three.js</strong>
+<strong>TYPESCRIPT</strong>
 
 <br/><br/>
 
-💜
+<sub>
+teaching JavaScript
+some discipline
+</sub>
 
 </td>
 
 <td width="33%" align="center">
 
-<h3>03</h3>
+<h2>✨</h2>
 
-<strong>turn weird ideas into real products</strong>
+<strong>CREATIVE FRONTEND</strong>
 
 <br/><br/>
 
-🎀
+<sub>
+less template,
+more personality
+</sub>
 
 </td>
 
@@ -634,23 +675,23 @@ Accessibility
 
 </table>
 
+<br/><br/>
+
 </div>
 
 <!-- ═══════════════════════════════════════════════════════ -->
 
-<!--                   IMPORTANT QUESTIONS                -->
+<!--                       CHAOS                           -->
 
 <!-- ═══════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<br/>
-
 <img width="65%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:F7B4F9,50:8970A6,100:6C4C90"/>
 
 <br/><br/>
 
-<h2>🌸 THE IMPORTANT STUFF 🌸</h2>
+<h2>🌸 VERY IMPORTANT ENGINEERING QUESTIONS 🌸</h2>
 
 <br/>
 
@@ -674,11 +715,19 @@ Usually.
 
 <h2>✦</h2>
 
-<strong>Dark mode?</strong>
+<strong>Does it need animation?</strong>
 
 <br/><br/>
 
-Obviously.
+No.
+
+<br/>
+
+<sub>Will I animate it?</sub>
+
+<br/>
+
+<strong>Yes.</strong>
 
 </td>
 
@@ -686,11 +735,11 @@ Obviously.
 
 <h2>🎀</h2>
 
-<strong>Would I animate it?</strong>
+<strong>One more tiny change?</strong>
 
 <br/><br/>
 
-Unfortunately yes.
+That's how it starts.
 
 </td>
 
@@ -741,8 +790,5 @@ Unfortunately yes.
 <br/><br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:F7B4F9,35:B77BC6,70:8970A6,100:4D326B"/>
-
-</div>
-
 
 </div>
